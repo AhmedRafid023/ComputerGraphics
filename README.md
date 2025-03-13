@@ -34,6 +34,13 @@ A powerful rendering technique that simulates realistic lighting by tracing rays
 - Shadows
 - Light absorption
 
+### 🏀 Ball Bouncing Simulation
+This simulation demonstrates realistic **bouncing ball physics** using OpenGL. The ball follows a natural bouncing motion with gravity applied. The motion includes:
+- Gravity-affected movement
+- Collision detection with the ground
+- Shape deformation upon impact
+- Dynamic motion adjustments
+
 ## 🛠️ Tech Stack
 - **C++** ⚡
 - **OpenGL** 🎨
@@ -51,7 +58,6 @@ Compile and run:
 g++ main.cpp -o graphics -lGL -lGLU -lglut
 ./graphics
 ```
-
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the project and submit a PR.
