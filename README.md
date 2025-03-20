@@ -1,6 +1,6 @@
 # 🎨 Computer Graphics Project - C++ & OpenGL
 
-This project implements various **computer graphics algorithms** using **C++ and OpenGL**. The focus is on fundamental rendering techniques, line drawing, projection, and ray tracing.
+This project implements various **computer graphics algorithms** using **C++ and OpenGL**. The focus is on fundamental rendering techniques, line drawing, ball bouncing projection, and ray tracing.
 
 ## 🚀 Implemented Algorithms
 
